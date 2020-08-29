@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 export default function SingleProductPage() {
-    return (
-        <div>
-            <h1>Hello from SingleProduct page</h1>
-        </div>
-    );
+  return (
+    <>
+      <h1>Hello From SingleProduct Page</h1>
+    </>
+  );
 }
